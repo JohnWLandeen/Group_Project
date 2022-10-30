@@ -5,9 +5,9 @@ Proponents of decriminalizing and descheduling cannabis argue that it has been e
 
 The War on Drugs that began in the US in the early 1970s has painted cannabis as a "gateway drug" that utlimately leads to the use of harder substances like cocaine or heroin.  Advocates of legalization argue to the contrary, touting the potential that cannabis has as an "exit drug," which many have turned to as an alternative to geniunely addictive and harmful substances, including opioids, to reduce withdrawal symptoms and to minimize pain.
 
-The opioid epidemic has had devastating consequences in the US, and cannabis, many theorize, is one potential contributor to its reversal.  While some studies (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246665/) have looked at the correlation between cannabis consumption and opioid misuse in a handful of states following legalization at the state level, our group project aims to compare the same data for all states, to see whether the data can support the above theory that cannabis legalization is a possible solution (at least in part) to the opioid problem.
+The opioid epidemic has had devastating consequences in the US, and cannabis, many theorize, is one potential contributor to its reversal.  While some studies (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246665/) have looked at the correlation between cannabis consumption and opioid misuse in a handful of states following legalization at the state level, our group project aims to compare the same data for all 50 states, to see whether the data collectively can support the above theory that cannabis legalization is a possible solution (at least in part) to our opioid problem.
 
-Our objective is an interactive dashboard that provides users with state-specific visualizations based on datasets from reliable sources (NIH, CDC, etc.) to see whether there’s an answer within the data to the following questions:
+Our objective is an interactive dashboard that provides users with state-specific visualizations based on datasets from reliable sources (NIH, CDC, etc.) to see whether there are answers within the data to the following questions:
 
 1. Is there consistently a negative correlation in all / most states between reported cannabis consumption and opioid misuse/deaths?
 
@@ -21,7 +21,7 @@ Our datasets will include:
 
 We will document our processes, challenges and conclusions in full detail in the following READMEs:
 - Data Collection and Cleaning (John Landeen, Albert Zeng, Janasia Roemling)
-- Dataframes Construction and ERD (Albert Zeng, Jorge Jurgado)
+- Dataframes Construction and ERD (Albert Zeng, Jorge Jurgado, Paulal Adams)
 - Machine Learning Models (John Landeen)
 - Dashboard and Visualizations (Janasia Roemling, Paula Adams)
 
