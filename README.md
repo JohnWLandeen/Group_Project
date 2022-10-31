@@ -25,3 +25,4 @@ We will document our processes, challenges and conclusions in full detail in the
 - Machine Learning Models (John Landeen)
 - Dashboard and Visualizations (Janasia Roemling, Paula Adams)
 
+Our Logo Visualization was created on Adobe Illustrator.
