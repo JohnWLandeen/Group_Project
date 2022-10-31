@@ -1,0 +1,355 @@
+,Year,State,Number of Deaths
+0,2014,Total U.S.,47055
+1,2015,Total U.S.,52404
+2,2016,Total U.S.,63450
+3,2017,Total U.S.,70237
+4,2018,Total U.S.,56144
+5,2019,Total U.S.,70630
+6,2020,Total U.S.,91799
+7,2014,North Dakota,43
+8,2014,Nebraska,125
+9,2014,South Dakota,63
+10,2014,Iowa,264
+11,2014,Texas,2601
+12,2014,Minnesota,517
+13,2014,Virginia,980
+14,2014,Mississippi,336
+15,2014,Georgia,1206
+16,2014,Hawaii,157
+17,2014,California,4521
+18,2014,Arizona,356
+19,2014,New York,2300
+20,2014,Oregon,522
+21,2014,Kansas,332
+22,2014,Illinois,1705
+23,2014,Florida,2634
+24,2014,Alabama,723
+25,2014,North Carolina,1358
+26,2014,South Carolina,701
+27,2014,Maine,216
+28,2014,Washington,979
+29,2014,Idaho,212
+30,2014,Alaska,124
+31,2014,Montana,125
+32,2014,New Jersey,1253
+33,2014,Maryland,1070
+34,2014,District of Columbia,96
+35,2014,Wisconsin,853
+36,2014,Vermont,83
+37,2014,New Hampshire,334
+38,2014,Colorado,899
+39,2014,Michigan,1762
+40,2014,Connecticut,623
+41,2014,Massachusetts,1289
+42,2014,Indiana,1172
+43,2014,Wyoming,109
+44,2014,Missouri,1067
+45,2014,Louisiana,777
+46,2014,Tennessee,1269
+47,2014,Arizona,1211
+48,2014,Delaware,189
+49,2014,Pennsylvania,2732
+50,2014,Oklahoma,777
+51,2014,Ohio,2744
+52,2014,Nevada,545
+53,2014,Utah,603
+54,2014,Rhode Island,247
+55,2014,New Mexico,547
+56,2014,Kentucky,1077
+57,2014,West Virginia,627
+58,2015,Alabama,736
+59,2015,Alaska,122
+60,2015,Arizona,1274
+61,2015,Arkansas,392
+62,2015,California,4659
+63,2015,Colorado,869
+64,2015,Connecticut,800
+65,2015,Delaware,198
+66,2015,District of Columbia,125
+67,2015,Florida,3228
+68,2015,Georgia,1302
+69,2015,Hawaii,169
+70,2015,Idaho,218
+71,2015,Illinois,1835
+72,2015,Indiana,1245
+73,2015,Iowa,309
+74,2015,Kansas,329
+75,2015,Kentucky,1273
+76,2015,Louisiana,861
+77,2015,Maine,269
+78,2015,Maryland,1285
+79,2015,Massachusetts,1724
+80,2015,Michigan,1980
+81,2015,Minnesota,581
+82,2015,Mississippi,351
+83,2015,Missouri,1066
+84,2015,Montana,138
+85,2015,Nebraska,126
+86,2015,Nevada,619
+87,2015,New Hampshire,422
+88,2015,New Jersey,1454
+89,2015,New Mexico,501
+90,2015,New York,2754
+91,2015,North Carolina,1567
+92,2015,North Dakota,61
+93,2015,Ohio,3310
+94,2015,Oklahoma,725
+95,2015,Oregon,505
+96,2015,Pennsylvania,3264
+97,2015,Rhode Island,310
+98,2015,South Carolina,761
+99,2015,South Dakota,65
+100,2015,Tennessee,1457
+101,2015,Texas,2588
+102,2015,Utah,646
+103,2015,Vermont,99
+104,2015,Virginia,1039
+105,2015,Washington,1094
+106,2015,West Virginia,725
+107,2015,Wisconsin,878
+108,2015,Wyoming,96
+109,2016,Alabama,756
+110,2016,Alaska,128
+111,2016,Arizona,1382
+112,2016,Arkansas,401
+113,2016,California,4654
+114,2016,Colorado,942
+115,2016,Connecticut,971
+116,2016,Delaware,282
+117,2016,District of Columbia,269
+118,2016,Florida,4728
+119,2016,Georgia,1394
+120,2016,Hawaii,191
+121,2016,Idaho,243
+122,2016,Illinois,2411
+123,2016,Indiana,1526
+124,2016,Iowa,314
+125,2016,Kansas,131
+126,2016,Kentucky,1419
+127,2016,Louisiana,996
+128,2016,Maine,353
+129,2016,Maryland,2044
+130,2016,Massachusetts,2227
+131,2016,Michigan,2347
+132,2016,Minnesota,672
+133,2016,Mississippi,352
+134,2016,Missouri,1371
+135,2016,Montana,119
+136,2016,Nebraska,120
+137,2016,Nevada,665
+138,2016,New Hampshire,481
+139,2016,New Jersey,2056
+140,2016,New Mexico,500
+141,2016,New York,3638
+142,2016,North Carolina,1956
+143,2016,North Dakota,77
+144,2016,Ohio,4329
+145,2016,Oklahoma,813
+146,2016,Oregon,506
+147,2016,Pennsylvania,4627
+148,2016,Rhode Island,326
+149,2016,South Carolina,879
+150,2016,South Dakota,69
+151,2016,Tennessee,1630
+152,2016,Texas,2831
+153,2016,Utah,635
+154,2016,Vermont,125
+155,2016,Virginia,1405
+156,2016,Washington,1102
+157,2016,West Virginia,884
+158,2016,Wisconsin,1074
+159,2016,Wyoming,99
+160,2017,Alabama,835
+161,2017,Alaska,147
+162,2017,Arizona,1532
+163,2017,Arkansas,446
+164,2017,California,4868
+165,2017,Colorado,1015
+166,2017,Connecticut,1072
+167,2017,Delaware,338
+168,2017,District of Columbia,310
+169,2017,Florida,5088
+170,2017,Georgia,1537
+171,2017,Hawaii,203
+172,2017,Idaho,236
+173,2017,Illinois,2778
+174,2017,Indiana,1852
+175,2017,Iowa,341
+176,2017,Kansas,333
+177,2017,Kentucky,1566
+178,2017,Louisiana,1108
+179,2017,Maine,424
+180,2017,Maryland,2247
+181,2017,Massachusetts,2168
+182,2017,Michigan,2694
+183,2017,Minnesota,733
+184,2017,Mississippi,354
+185,2017,Missouri,1367
+186,2017,Montana,119
+187,2017,Nebraska,152
+188,2017,Nevada,676
+189,2017,New Hampshire,467
+190,2017,New Jersey,2685
+191,2017,New Mexico,493
+192,2017,New York,3921
+193,2017,North Carolina,2414
+194,2017,North Dakota,68
+195,2017,Ohio,5111
+196,2017,Oklahoma,775
+197,2017,Oregon,530
+198,2017,Pennsylvania,5388
+199,2017,Rhode Island,320
+200,2017,South Carolina,1008
+201,2017,South Dakota,73
+202,2017,Tennessee,1776
+203,2017,Texas,2989
+204,2017,Utah,650
+205,2017,Vermont,134
+206,2017,Virginia,1507
+207,2017,Washington,1169
+208,2017,West Virginia,974
+209,2017,Wisconsin,1177
+210,2017,Wyoming,69
+211,2018,Alabama,775
+212,2018,Alaska,110
+213,2018,Arizona,1670
+214,2018,Arkansas,444
+215,2018,Delaware,401
+216,2018,District of Columbia,254
+217,2018,Florida,4698
+218,2018,Hawaii,213
+219,2018,Idaho,250
+220,2018,Illinois,2722
+221,2018,Indiana,1629
+222,2018,Iowa,287
+223,2018,Kentucky,1315
+224,2018,Louisiana,1140
+225,2018,Maine,345
+226,2018,Maryland,2324
+227,2018,Massachusetts,2241
+228,2018,Michigan,2591
+229,2018,Mississippi,310
+230,2018,Missouri,1610
+231,2018,Nebraska,138
+232,2018,New Hampshire,452
+233,2018,New Jersey,2900
+234,2018,New Mexico,537
+235,2018,New York,3697
+236,2018,North Carolina,2259
+237,2018,North Dakota,70
+238,2018,Ohio,3980
+239,2018,Oklahoma,716
+240,2018,Pennsylvania,4415
+241,2018,Rhode Island,317
+242,2018,South Carolina,1125
+243,2018,South Dakota,57
+244,2018,Tennessee,1823
+245,2018,Texas,3005
+246,2018,Utah,624
+247,2018,Vermont,153
+248,2018,Virginia,1448
+249,2018,Washington,1164
+250,2018,West Virginia,856
+251,2018,Wisconsin,1079
+252,2019,Alabama,768
+253,2019,Alaska,132
+254,2019,Arizona,1907
+255,2019,Arkansas,388
+256,2019,California,6198
+257,2019,Colorado,1079
+258,2019,Connecticut,1214
+259,2019,Delaware,435
+260,2019,District of Columbia,311
+261,2019,Florida,5268
+262,2019,Georgia,1408
+263,2019,Hawaii,242
+264,2019,Idaho,265
+265,2019,Illinois,2790
+266,2019,Indiana,1699
+267,2019,Iowa,352
+268,2019,Kansas,403
+269,2019,Kentucky,1380
+270,2019,Louisiana,1267
+271,2019,Maine,371
+272,2019,Maryland,2369
+273,2019,Massachusetts,2210
+274,2019,Michigan,2385
+275,2019,Minnesota,792
+276,2019,Mississippi,394
+277,2019,Missouri,1583
+278,2019,Montana,143
+279,2019,Nebraska,161
+280,2019,Nevada,647
+281,2019,New Hampshire,407
+282,2019,New Jersey,2805
+283,2019,New Mexico,599
+284,2019,New York,3617
+285,2019,North Carolina,2266
+286,2019,North Dakota,82
+287,2019,Ohio,4251
+288,2019,Oklahoma,645
+289,2019,Oregon,615
+290,2019,Pennsylvania,4377
+291,2019,Rhode Island,307
+292,2019,South Carolina,1127
+293,2019,South Dakota,86
+294,2019,Tennessee,2089
+295,2019,Texas,3136
+296,2019,Utah,571
+297,2019,Vermont,133
+298,2019,Virginia,1547
+299,2019,Washington,1259
+300,2019,West Virginia,870
+301,2019,Wisconsin,1201
+302,2019,Wyoming,79
+303,2020,Alabama,1029
+304,2020,Alaska,160
+305,2020,Arizona,2550
+306,2020,Arkansas,546
+307,2020,California,8908
+308,2020,Colorado,1492
+309,2020,Connecticut,1371
+310,2020,Delaware,444
+311,2020,District of Columbia,424
+312,2020,Florida,7231
+313,2020,Georgia,1916
+314,2020,Hawaii,274
+315,2020,Idaho,287
+316,2020,Illinois,3549
+317,2020,Indiana,2321
+318,2020,Iowa,432
+319,2020,Kansas,490
+320,2020,Kentucky,2083
+321,2020,Louisiana,1896
+322,2020,Maine,496
+323,2020,Maryland,2771
+324,2020,Massachusetts,2302
+325,2020,Michigan,2759
+326,2020,Minnesota,1050
+327,2020,Mississippi,586
+328,2020,Missouri,1875
+329,2020,Montana,162
+330,2020,Nebraska,214
+331,2020,Nevada,832
+332,2020,New Hampshire,393
+333,2020,New Jersey,2840
+334,2020,New Mexico,784
+335,2020,New York,4965
+336,2020,North Carolina,3146
+337,2020,North Dakota,114
+338,2020,Ohio,5204
+339,2020,Oklahoma,762
+340,2020,Oregon,803
+341,2020,Pennsylvania,5168
+342,2020,Rhode Island,397
+343,2020,South Carolina,1739
+344,2020,South Dakota,83
+345,2020,Tennessee,3034
+346,2020,Texas,4172
+347,2020,Utah,622
+348,2020,Vermont,190
+349,2020,Virginia,2240
+350,2020,Washington,1733
+351,2020,West Virginia,1330
+352,2020,Wisconsin,1531
+353,2020,Wyoming,99
