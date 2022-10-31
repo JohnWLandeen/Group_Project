@@ -31,3 +31,7 @@ Albert:
 - Cleaned and merged US population data with cannabis and opioid data
 
 - Created per capita figures for cannabis use and opioid deaths
+
+Paula
+- Data source for state legality
+- ERD image
