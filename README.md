@@ -26,3 +26,8 @@ We will document our processes, challenges and conclusions in full detail in the
 - Dashboard and Visualizations (Janasia Roemling, Paula Adams)
 
 Our Logo Visualization was created on Adobe Illustrator.
+
+Our ERD image is as follows:
+
+![ERD](https://user-images.githubusercontent.com/106359572/199642300-f0c6c537-e880-45bc-90cf-6d2d91e950bd.png)
+
