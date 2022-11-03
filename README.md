@@ -1,9 +1,10 @@
 # Group_Project
 
-## Jorge Jurado Tableau Visualizations:
+## Tableau Visualizations - Jorge:
 ### Cannabis Consumption per Capita for each State
 ![Cannabis Consumption per Capita for each State](https://user-images.githubusercontent.com/104862099/199650099-82e2c8c5-6f9f-4fa2-b793-345ee05e8439.jpg)
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectCannabiscapitaperstate/Story1?publish=yes
+
 
 ### Opiod Overdoses Per Capita For Each State
 ![Opiod Overdoses Per Capita For Each State](https://user-images.githubusercontent.com/104862099/199650210-cae019f6-09c6-4246-b6cd-01e3f2171e7a.jpg)
