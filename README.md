@@ -3,7 +3,7 @@
 
 ![GroupLogo21024_1](https://user-images.githubusercontent.com/104862099/199653694-93e49ae0-0be2-4c36-bce0-5f207bf70f91.jpg)
 
-Our Team Logo was created on Adobe Illustrator. It represents our teams extensive analytical research in the opioid overdose and cannabis consumption rates by state.
+Our Team Logo was created on Adobe Illustrator. It represents our teams analytical research in the opioid overdose and cannabis consumption rates by state.
 
 
 ## Tableau Visualizations - Jorge:
