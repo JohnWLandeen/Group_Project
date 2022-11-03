@@ -1,7 +1,7 @@
 # Group_Project
 ## Team Logo
 
-[GroupLogo2.pdf](https://github.com/pladams777/Group_Project/files/9925825/GroupLogo2.pdf)
+![GroupLogo21024_1](https://user-images.githubusercontent.com/104862099/199653694-93e49ae0-0be2-4c36-bce0-5f207bf70f91.jpg)
 
 Our Team Logo was created on Adobe Illustrator. It represents analytical research in the opioid overdose and cannabis consumption rates per capita by state.
 
