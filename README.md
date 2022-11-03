@@ -1,5 +1,5 @@
 # Group_Project
-## Team Logo
+## Team Logo - Jorge:
 
 ![GroupLogo21024_1](https://user-images.githubusercontent.com/104862099/199653694-93e49ae0-0be2-4c36-bce0-5f207bf70f91.jpg)
 
@@ -21,7 +21,7 @@ When measuring the Per Capita Cannabis Use by state, we color-coded our map to s
 
 ### Opioid Overdoses Per Capita For Each State
 
-![Opioid Overdoses Per Capita For Each State](https://user-images.githubusercontent.com/104862099/199653116-d5bc56a7-3844-4756-87ed-0aa68801fddc.png)
+![Opioid Overdoses Per Capita For Each State](https://user-images.githubusercontent.com/104862099/199654429-602c45c8-35bd-4eeb-b036-5d659e6d73db.jpg)
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectOpiodOverdoses/Story2?publish=yes
 
 When measuring the Per capita Opioid Overdoses by state, we color-coded our map to show red (higher opioid overdoses per capita) and green (lower opioid overdoses per capita) by state. We can now see the following results:
@@ -34,7 +34,8 @@ When measuring the Per capita Opioid Overdoses by state, we color-coded our map 
 
 
 ### Correlation Cannabis Consumption per Capita vs Opioid Overdoses per Capita
-![Correlation Cannabis Consumption per Capita vs Opioid Overdoses per Capita](https://user-images.githubusercontent.com/104862099/199653087-8770771d-f849-43c8-a289-7b595b67523b.png)
+
+![Correlation Cannabis Consumption per Capita vs Opioid Overdoses per Capita](https://user-images.githubusercontent.com/104862099/199654452-24a4db45-9f57-4068-aba5-485446710186.jpg)
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/CorrelationpercapitaCannabisConsumptionvspercapitaOpiodOverdoses/Story3?publish=yes
 
 When measuring the Correlation between Opioid Overdoses per capita vs Opioid Overdoses per capita by state, we color-coded our map to show red (lower correlation) and green (higher correlation) by state. We can now see the following results:
