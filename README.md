@@ -1,5 +1,5 @@
 # Group_Project
-As of this writing, cannabis remains federally illegal as a "Schedule 1" controlled substance, reserved for drugs that have no medical benefit and a high potential for abuse (along with, for instance, heroin and lysergic acid diethylamide (LSD)).
+As of this writing, cannabis remains federally illegal as a "Schedule 1" controlled substance, a categorization reserved for drugs that have no medical benefit and a high potential for abuse (along with, for instance, heroin and lysergic acid diethylamide (LSD)).
 
 Proponents of decriminalizing and descheduling cannabis argue that it has been extenstively researched and scientifically validated as a plant that offers myriad physical health benefits, and with far less potential for lethal overconsumption than alcohol, for example, or even over-the-counter medications like acetaminophen (and they point to the 30,000+ cannabis-related studies published on the National Center for Biotechnology's PubMed.gov site in response to claims that it has not yet been researched or studied well enough to justify recreational legalization on a national level).
 
@@ -14,10 +14,10 @@ Our objective is an interactive dashboard that provides users with state-specifi
 2. In states that have legalized medical and/or recreational marijuana, has there been a greater / sharper decline in reported opioid misuse/deaths in the year(s) following legalization, compared to states that have not yet lifted restrictions?
 
 Our datasets will include: 
-- state population estimates (https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates/2010s-state-total.html)
-- A survey of self-reported cannabis consumption, once or more within the past year for ages 12 and up (https://www.samhsa.gov/data/nsduh/state-reports-NSDUH-2)
-- Opioid prescribing rates per 100 people (https://www.cdc.gov/drugoverdose/rxrate-maps/index.html)
-- Opioid overdose rates (https://www.kff.org/statedata/collection/opioid-epidemic/)
+- annual state population estimates (https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates/2010s-state-total.html)
+- An annual survey of self-reported cannabis consumption, once or more within the past year for ages 12 and up (https://www.samhsa.gov/data/nsduh/state-reports-NSDUH-2)
+- Opioid prescribing rates per 100 people, ages 12 and older (https://www.cdc.gov/drugoverdose/rxrate-maps/index.html)
+- Opioid overdose rates, ages 12 and older (https://www.kff.org/statedata/collection/opioid-epidemic/)
 
 We will document our processes, challenges and conclusions in full detail in the following READMEs:
 - Data Collection and Cleaning (John Landeen, Albert Zeng, Janasia Roemling)
