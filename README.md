@@ -14,7 +14,7 @@ Bottom 5 cannabis-consuming states per capita: Utah, Mississippi, South Dakota, 
 
 
 
-### Opiod Overdoses Per Capita For Each State
+### Opioid Overdoses Per Capita For Each State
 ![Opiod Overdoses Per Capita For Each State](https://user-images.githubusercontent.com/104862099/199650210-cae019f6-09c6-4246-b6cd-01e3f2171e7a.jpg)
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectOpiodOverdoses/Story2?publish=yes
 
@@ -28,7 +28,7 @@ Bottom 5 opioid-overdosing states: Kansas, California, North Dakota, Nebraska, a
 
 
 
-### Correlation Cannabis Consumption per Capita vs Opiod Overdoses per Capita
+### Correlation Cannabis Consumption per Capita vs Opioid Overdoses per Capita
 ![Correlation Cannabis Consumption per Capita vs Opiod Overdoses per Capita](https://user-images.githubusercontent.com/104862099/199650238-06857a2a-64e9-4b1f-a307-eb5783c0c9dc.jpg)
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/CorrelationpercapitaCannabisConsumptionvspercapitaOpiodOverdoses/Story3?publish=yes
 
