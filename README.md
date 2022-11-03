@@ -1,4 +1,8 @@
 # Group_Project
+## Team Logo
+[GroupLogo2.pdf](https://github.com/pladams777/Group_Project/files/9925825/GroupLogo2.pdf)
+Our Team Logo was created on Adobe Illustrator. It represents analytical research in the opioid overdose and cannabis consumption rates per capita by state.
+
 
 ## Tableau Visualizations - Jorge:
 ### Cannabis Consumption per Capita for each State
