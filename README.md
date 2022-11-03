@@ -7,20 +7,21 @@ Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupPr
 
 When measuring the Per Capita Cannabis Use by state, we color-coded our map to show red (higher cannabis usage per capita) and green (lower cannabis usage per capita) by state. We can now see the following results:
 
-Top 5 cannabis-consuming states per capita: Vermont, Colorado, Maine, Oregon, and Alaska.
-Bottom 5 cannabis-consuming states per capita: Utah, Mississippi, South Dakota, Iowa, and Texas.
+- Top 5 cannabis-consuming states per capita: Vermont, Colorado, Maine, Oregon, and Alaska.
+- Bottom 5 cannabis-consuming states per capita: Utah, Mississippi, South Dakota, Iowa, and Texas.
 
 
 
 
 ### Opioid Overdoses Per Capita For Each State
 
-Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectOpiodOverdoses/Story2?publish=yes
 ![Opioid Overdoses Per Capita For Each State](https://user-images.githubusercontent.com/104862099/199653116-d5bc56a7-3844-4756-87ed-0aa68801fddc.png)
+Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectOpiodOverdoses/Story2?publish=yes
+
 When measuring the Per capita Opioid Overdoses by state, we color-coded our map to show red (higher opioid overdoses per capita) and green (lower opioid overdoses per capita) by state. We can now see the following results:
 
-Top 5 opioid-overdosing states: West Virginia, New Hampshire, Kentucky, Ohio, and New Mexico.
-Bottom 5 opioid-overdosing states: Kansas, California, North Dakota, Nebraska, and South Dakota.
+- Top 5 opioid-overdosing states: West Virginia, New Hampshire, Kentucky, Ohio, and New Mexico.
+- Bottom 5 opioid-overdosing states: Kansas, California, North Dakota, Nebraska, and South Dakota.
 
 
 
@@ -30,8 +31,7 @@ Bottom 5 opioid-overdosing states: Kansas, California, North Dakota, Nebraska, a
 ![Correlation Cannabis Consumption per Capita vs Opioid Overdoses per Capita](https://user-images.githubusercontent.com/104862099/199653087-8770771d-f849-43c8-a289-7b595b67523b.png)
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/CorrelationpercapitaCannabisConsumptionvspercapitaOpiodOverdoses/Story3?publish=yes
 
-
 When measuring the Correlation between Opioid Overdoses per capita vs Opioid Overdoses per capita by state, we color-coded our map to show red (lower correlation) and green (higher correlation) by state. We can now see the following results:
 
-States with Strongest Correlation: Louisiana, Connecticut,  Florida, Missouri, and Illinois.
-States with Weakest Correlation: Utah, Oklahoma, Wyoming, Georgia, and Alaska.
+- States with Strongest Correlation: Louisiana, Connecticut,  Florida, Missouri, and Illinois.
+- States with Weakest Correlation: Utah, Oklahoma, Wyoming, Georgia, and Alaska.
