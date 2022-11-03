@@ -21,7 +21,7 @@ Our datasets will include:
 
 We will document our processes, challenges and conclusions in full detail in the following READMEs:
 - Data Collection and Cleaning (John Landeen, Albert Zeng, Janasia Roemling)
-- Dataframes Construction and ERD (Albert Zeng, Jorge Jurgado, Paulal Adams)
+- Dataframes Construction and ERD (Albert Zeng, Jorge Jurgado, Paula Adams)
 - Machine Learning Models (John Landeen)
 - Dashboard and Visualizations (Janasia Roemling, Paula Adams)
 
