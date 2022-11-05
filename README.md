@@ -32,7 +32,7 @@ Our team meets 4 times a week:
 
 Outside of meetings, we communicate via Slack chat threads to keep one another up-to-date on our progress and new ideas.
 
-We've agreed to keep the division of responsibility less formal and siloed than what is suggested in the Canvas Module 20 instructions.  Team members have not been assigned "shapes" that designate their roles; we've instead agreed to each contribute wherever our strengths allow us to, while requesting input and help from others as needed.  Each section of our project can therefore have more than one contributor, and each team member has contributed to two or more different sections of the project.
+We've agreed to keep the division of responsibility less formal and siloed than what is suggested in the Canvas Module 20 instructions.  Team members have not been assigned "shapes" that designate their roles; we've instead agreed to each contribute wherever our strengths allow us to, while requesting input and help from others as needed.  Each section of our project can therefore have more than one contributor, and each team member has contributed to more than one branch in this repository.
   
 We will document our processes, challenges and conclusions in full detail in the following READMEs:
 - Data Collection, Cleaning and Analysis: John Landeen, Albert Zeng, Janasia Roemling
