@@ -42,3 +42,26 @@ When measuring the Correlation between Opioid Overdoses per capita vs Opioid Ove
 
 - States with Strongest Correlation: Louisiana, Connecticut,  Florida, Missouri, and Illinois.
 - States with Weakest Correlation: Utah, Oklahoma, Wyoming, Georgia, and Alaska.
+
+## Tableau Visualizations - Janasia:
+### Per Capita Drug Deaths by State
+https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Opioid_Deaths_Map#1
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/106359572/200138532-5ea43c9c-fcee-48e8-8479-b515654c6597.png">
+
+### Per Capita Cannabis Consumption by State
+https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Cannabis_Use_Map#1
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/106359572/200138586-32801412-1394-43fc-a304-e42606b04dc3.png">
+
+### Correlational Line Charts (filterable by State)
+https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Per_Capita_Line_Charts#1
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/106359572/200138630-9da2bd44-d989-4eec-b8ff-fabe88300bd3.png">
+
+### Correlational Bar Graphs (filterable by State)
+https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Per_Capita_Bar_Graphs#1
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/106359572/200138666-8b70ceea-355d-46ed-9ffe-36ed990f6e7c.png">
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/106359572/200138755-81e4a061-abe3-4e1d-bd16-79efc08bb7c3.png">
+
+### Preliminary Dashboard Layout
+https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Dashboard#1
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/106359572/200138809-3d200303-774a-480e-8ad9-cc6035a14565.png">
+
