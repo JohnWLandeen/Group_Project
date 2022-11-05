@@ -35,3 +35,46 @@ Albert:
 Paula
 - Data source for state legality
 - ERD image
+
+
+# Data Exploration
+## Opioid Statistics
+
+### 1. U.S. State Opioid Dispensing Rate Maps
+The first sets of data we chose to consider for our analysis of US opioid statics are from the Centers for Disease Control and Prevention’s “U.S. State Opioid Dispensing Rate Maps,” for which the data is available from 2006 through 2020 on the CDC website (https://www.cdc.gov/drugoverdose/rxrate-maps/index.html).
+As shown in the below example of their 2006 table, these data show the number of opioid prescriptions dispensed per 100 residents, per year, by state.
+  
+![image](https://user-images.githubusercontent.com/106359572/200137338-00eb0042-1762-4631-b2e1-a09aece44605.png)
+
+The source listed by the CDC for these data is “IQVIA Xponent 2006–2020,” which is based on a sample of approximately 50,400 retail pharmacies, which dispense nearly 92% of all retail prescriptions in the United States. For this database, a prescription is a new or refill prescription dispensed at a retail pharmacy in the sample and paid for by commercial insurance, Medicaid, Medicare, cash or its equivalent, and other third-party coverage. This database does not include mail order prescriptions.
+### 2. Drug Overdose Rates (ages 12 and older)
+In addition to opioid prescribing rates, we’ve included the national numbers for drug fatalities (again, by state, per year), which we downloaded as CSV files from the CDC website for the years 2014 through 2020 (https://www.cdc.gov/drugoverdose/deaths/index.html).
+
+![image](https://user-images.githubusercontent.com/106359572/200137374-3d36cea1-56d2-450c-bf93-d5f4ebf82d2e.png)
+
+Our intent was to gather data related only to opioid deaths.  We later realized that the data in these files depicts fatalities caused by all abused substances, not just opioids.  
+Because the focus of our analysis is the correlation between cannabis consumption and opioid misuse specifically, we considered whether to incorporate the data tables for each of subcategorizations shown here:
+
+![image](https://user-images.githubusercontent.com/106359572/200137383-aa37f152-993b-48c5-93a5-6fdcb28833f9.png)
+
+However, we found this breakdown somewhat too specific for the purpose of our project; that is, for the sake of simplicity, our team is interested in deaths caused by all opioids, and less so in the type of opioid.  Including these data would entail downloading the tables for each opioid type and for each year, after which we would need to merge the tables and calculate the totals that we are after.
+(Another disadvantage of the data is that it only dates back to 2016, which would leave us with two to three years of missing data.) 
+
+![image](https://user-images.githubusercontent.com/106359572/200137396-7908f809-3f51-4eca-a900-87ec1bb48025.png)
+(https://www.cdc.gov/drugoverdose/deaths/prescription/2019-2020.html)
+
+![image](https://user-images.githubusercontent.com/106359572/200137416-f99fce9a-ddac-406c-bf8b-b5d6e48f66ab.png)
+(https://www.cdc.gov/drugoverdose/deaths/heroin/2019-2020.html)
+
+![image](https://user-images.githubusercontent.com/106359572/200137428-1764625e-5826-431f-ab98-638b0fd4dd9d.png)
+(https://www.cdc.gov/drugoverdose/deaths/synthetic/2019-2020.html)
+
+### 3. Opioid Overdose Deaths by Age Group
+To address our above issue, we continued in search of more user-friendly and efficiently compiled data, which we found through Kaiser Family Foundation (https://www.kff.org/statedata/collection/opioid-epidemic/), a nonprofit organization focusing on national health issues.
+
+![image](https://user-images.githubusercontent.com/106359572/200137448-040b4c44-b272-4893-a212-cb64cae5fcb8.png)
+(https://www.kff.org/other/state-indicator/opioid-overdose-deaths-by-age-group/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D)
+
+The data, sourced from the National Vital Statistics System multiple cause-of-death mortality files, show the number of opioid overdose deaths by age group, by state, dating all the way back to 1999. 
+This is important because by replacing the CDC Drug Overdose datasets (in point 2. above) with the KFF Opioid Overdose data, our group could expand our analysis by up to 15 years, which would easily resolve the issue we’ve encountered with a lack of data.  (The minimum requirement of this project is 1,000 rows of data and as of November 5, our group’s merged data table only totals approximately 350 rows.)
+
