@@ -1,0 +1,52 @@
+,State,Recreational,Rec Year Legalized,Medical,Med Year Legalized,Years legal (rec),Years legal (med),Status
+0,Alaska,1,2014,1,1998,8,24,Both
+1,Arizona,1,2020,1,2010,2,12,Both
+2,California,1,2016,1,1996,6,26,Both
+3,Colorado,1,2012,1,2000,10,22,Both
+4,Connecticut,1,2021,1,2012,1,10,Both
+5,District of Columbia,1,2015,1,2011,7,11,Both
+6,Illinois,1,2019,1,2013,3,9,Both
+7,Maine,1,2016,1,1999,6,23,Both
+8,Massachusetts,1,2016,1,2012,6,10,Both
+9,Michigan,1,2018,1,2008,4,14,Both
+10,Montana,1,2020,1,2004,2,18,Both
+11,Nevada,1,2016,1,1998,6,24,Both
+12,New Jersey,1,2020,1,2010,2,12,Both
+13,New Mexico,1,2021,1,2007,1,15,Both
+14,New York,1,2021,1,2014,1,8,Both
+15,Oregon,1,2014,1,1998,8,24,Both
+16,Rhode Island,1,2022,1,2006,0,16,Both
+17,Vermont,1,2020,1,2004,2,18,Both
+18,Virginia,1,2021,1,2020,1,2,Both
+19,Washington,1,2012,1,1998,10,24,Both
+20,Alabama,0,0,1,2021,0,1,Medical
+21,Arkansas,0,0,1,2016,0,6,Medical
+22,Delaware,0,0,1,2011,0,11,Medical
+23,Florida,0,0,1,2016,0,6,Medical
+24,Georgia,0,0,1,2015,0,7,Medical
+25,Hawaii,0,0,1,2000,0,22,Medical
+26,Iowa,0,0,1,2017,0,5,Medical
+27,Louisiana,0,0,1,2015,0,7,Medical
+28,Maryland,0,0,1,2013,0,9,Medical
+29,Minnesota,0,0,1,2014,0,8,Medical
+30,Mississippi,0,0,1,2022,0,0,Medical
+31,Missouri,0,0,1,2018,0,4,Medical
+32,New Hampshire,0,0,1,2013,0,9,Medical
+33,North Dakota,0,0,1,2016,0,6,Medical
+34,Ohio,0,0,1,2016,0,6,Medical
+35,Oklahoma,0,0,1,2018,0,4,Medical
+36,Pennsylvania,0,0,1,2016,0,6,Medical
+37,South Dakota,0,0,1,2020,0,2,Medical
+38,Utah,0,0,1,2018,0,4,Medical
+39,West Virginia,0,0,1,2017,0,5,Medical
+40,Idaho,0,0,0,0,0,0,Neither
+41,Indiana,0,0,0,0,0,0,Neither
+42,Kansas,0,0,0,0,0,0,Neither
+43,Kentucky,0,0,0,0,0,0,Neither
+44,Nebraska,0,0,0,0,0,0,Neither
+45,North Carolina,0,0,0,0,0,0,Neither
+46,South Carolina,0,0,0,0,0,0,Neither
+47,Tennessee,0,0,0,0,0,0,Neither
+48,Texas,0,0,0,0,0,0,Neither
+49,Wisconsin,0,0,0,0,0,0,Neither
+50,Wyoming,0,0,0,0,0,0,Neither
