@@ -1,0 +1,2 @@
+https://group-13-project-bucket.s3.us-west-2.amazonaws.com/Mega_merged_with_predictions.csv
+https://group-13-project-bucket.s3.us-west-2.amazonaws.com/mega_merged.csv
