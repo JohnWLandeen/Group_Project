@@ -83,22 +83,22 @@ This is important because by replacing the CDC Drug Overdose datasets (in point 
 ## Data Cleansing
 
 Once we had downloaded all of the necessary data relating to our project, the next step was to clean and process it so that it could be arranged in a way that would be easy to visualize. This process involved uploading the downloaded .csv files to Jupyter Notebook and then manipulating the data within each file. First, the file would be cleaned for any null values and unnecessary columns would be dropped. For example, data for each region of the United States was not necessary and was thus dropped from the dataset.
-![](EDA/images/remove.png)
+![](Dataset_Cleaning_Dir/images/remove.png)
 
 The next step was to make sure that all of the data was in the correct data format so that they could be merged with other datasets. Once that was done, the data from each csv could be merged with each other, creating bigger datasets.
 
 In other occasions, new columns had to be created to capture more detailed information about the cannabis consumption and opioid death of each state with consideration to each state's population. To create these per capita figures, data on each state's population had to be uploaded, cleaned, and formatted. After that, new dataframes were created where a formula dividing the total numbers of opioid deaths and cannabis users by the state's total poulation was employed. Then, that dataset was merged with the rest of the data.
 
-![](EDA/images/per_cap.png)
+![](Dataset_Cleaning_Dir/images/per_cap.png)
 
 The next step in this process was to incorporate the legality of cannabis in each state and then merge that into the dataset. To do this, the legal status was split into three categories: recreationally legal (which by definition also means medically legal), only medically legal, and illegal. To sort each state into one of the three categories, either a 1 or a 0 was assigned to the recreational and medical status of each state with 1 meaning yes and 0 meaning no.
 
-![](EDA/images/legality.png)
+![](Dataset_Cleaning_Dir/images/legality.png)
 
 An additional colummn was added counting the number of years that medical and/or recreational cannabis has been legal in each state. This was created using a formula that took the year that medical or recreational cannabis, depending on which one was legal, and subtracted it from the current year 2022. 
 
-![](EDA/images/yrs_legal.png)
+![](Dataset_Cleaning_Dir/images/yrs_legal.png)
 
 The final step in this process was to merge the legality dataset with the other data. A merge on the state and year was made and the resulting mega dataset was formatted and then saved as a .csv file.
 
-![](EDA/images/mega_merged.png)
+![](Dataset_Cleaning_Dir/images/mega_merged.png)
