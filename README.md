@@ -1,4 +1,4 @@
-# UC Berkeley Extention Data Analytics Bootcamp Capstone Project, Group 13: "A Correlational Analysis of Cannabis Consumption and Opioid Misuse in the United States"
+# UC Berkeley Extension Data Analytics Bootcamp Capstone Project, Group 13: "A Correlational Analysis of Cannabis Consumption and Opioid Misuse in the United States"
 <img width="113" alt="image" src="https://user-images.githubusercontent.com/106359572/200140635-383d3628-432c-4e9c-9036-eb79a8218441.png"> 
 
 ## Introduction
@@ -40,4 +40,6 @@ We will document our processes, challenges and conclusions in full detail in the
 - Machine Learning Models: John Landeen
 - Dashboard and Visualizations: Jorge Jurado, Janasia Roemling, Paula Adams
 
-
+## Project Outline
+<img width="402" alt="image" src="https://user-images.githubusercontent.com/106359572/201494400-53a02193-fcbb-4b5e-bca7-353c0666e8d5.png">
+<img width="404" alt="image" src="https://user-images.githubusercontent.com/106359572/201494443-6a5b347f-b3b5-47ed-9bf4-8915c3f0c9f7.png">
