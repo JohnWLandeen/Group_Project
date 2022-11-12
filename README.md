@@ -80,6 +80,29 @@ To address our above issue, we continued in search of more user-friendly and eff
 The data, sourced from the National Vital Statistics System multiple cause-of-death mortality files, show the number of opioid overdose deaths by age group, by state, dating all the way back to 1999. 
 This is important because by replacing the CDC Drug Overdose datasets (in point 2. above) with the KFF Opioid Overdose data, our group could expand our analysis by up to 15 years, which would easily resolve the issue we’ve encountered with a lack of data.  (The minimum requirement of this project is 1,000 rows of data and as of November 5, our group’s merged data table only totals approximately 350 rows.)
 
+## Cannabis Statistics
+### Cannabis Consumption by State
+The National Survey on Drug Use and Health (NSDUH) (formerly the National Household Survey on Drug Abuse) tracks trends within the US in specific substance use, including cannabis, alcohol, tobacco, and various illicit and prescription drugs.
+
+For our analysis, our team chose the NSDUH datasets with state-level small area estimates (SAEs) showing self-reported cannabis consumption, once or more within the past year (for respondents ages 12 and older), from 2014 to 2020.  These were available to download in CSV format from the U.S. Department of Health & Human Services’ Substance Abuse and Mental Health Services Administration (SAMHSA) website.
+![image](https://user-images.githubusercontent.com/106359572/201492115-eb41528f-1f50-4b6c-a965-da0ad46dc1d2.png)
+https://www.samhsa.gov/data/nsduh/state-reports-NSDUH-2020
+
+![image](https://user-images.githubusercontent.com/106359572/201492136-d8c37ad6-ade3-4a35-8c88-369d21e2653f.png)
+
+### Cannabis Legality Status by State
+The sources used to compile our dataset for cannabis legality status for each state included the following:
+1.	National Conference of State Legislatures (https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx)
+2.	Word Population Review (https://worldpopulationreview.com/state-rankings/marijuana-laws-by-state)
+
+![image](https://user-images.githubusercontent.com/106359572/201492149-3a5b431a-70da-4085-8a49-e47064facd97.png)
+
+## Population Data
+Lastly, we incorporated state population estimates, provided by the United States Census Bureau, in order to have a baseline for comparison to put the cannabis consumption and opioid statistics into perspective as per capita percentages.
+
+![image](https://user-images.githubusercontent.com/106359572/201492160-72a40286-f110-441d-ad29-86d48bd0f677.png)
+https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates/2010s-state-total.html
+
 # Exploratory Data Analysis
 
 ## Data Cleansing
