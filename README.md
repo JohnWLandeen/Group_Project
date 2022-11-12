@@ -42,6 +42,6 @@ We will document our processes, challenges and conclusions in full detail in the
 
 ## Project Outline
 
-![image](https://user-images.githubusercontent.com/106359572/201494757-1a6ad038-63e2-4277-8ccc-16e679646c09.png)![image](https://user-images.githubusercontent.com/106359572/201494736-d01c74b0-e496-4343-a97d-9e89f14747b8.png)
+![image](https://user-images.githubusercontent.com/106359572/201496682-4358309f-f2bc-48cb-a993-72a557996e81.png)![image](https://user-images.githubusercontent.com/106359572/201494736-d01c74b0-e496-4343-a97d-9e89f14747b8.png)
 ![image](https://user-images.githubusercontent.com/106359572/201495172-542236d8-17cb-47f5-adef-d1b10d2a0953.png)
 
