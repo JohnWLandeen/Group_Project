@@ -97,9 +97,9 @@ Results:
 
 The best model performance for this project's small datasets goes to XGBoost for delivering the most ideal results of prediction differences, MAE scores, and RMSE scores. XGBoost metrics conclude after 500 epochs of training resulting in a Mean Absolute Error of about 17 and a Root Mean Square Error of about 40.
 
-![alt text](Resources/XGBoost_score_improvement.PNG) 
+![alt text](Resources/XGBoost_score_improvement.png) 
 
 The Predictions (red) against actual (blue) show the best performer for small datasets, XGBoost, deliver the most accurate outcomes.
 
-![alt text](Resources/predictions_against_actual_plot.PNG) 
+![alt text](Resources/predictions_against_actual_plot.png) 
     
