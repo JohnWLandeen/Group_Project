@@ -127,3 +127,7 @@ An additional colummn was added counting the number of years that medical and/or
 The final step in this process was to merge the legality dataset with the other data. A merge on the state and year was made and the resulting mega dataset was formatted and then saved as a .csv file.
 
 ![](Dataset_Cleaning_Dir/images/mega_merged.png)
+
+Our group found that there was a problem with the number of opioid deaths, which was that it was actually the number of total drug overdoses, not necessarily deaths from opioids. Once more accurate figures were obtained, the dataset was updated to include them. Additional columns with data on total drug deaths and the per capita figures were also included and merged with the file. 
+
+![](Dataset_Cleaning_Dir/images/updated.png)
