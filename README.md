@@ -50,15 +50,16 @@ Description of preliminary feature engineering and preliminary feature selection
 Description of how data was split into training and testing sets:
 
 * neural_networking_merged_set.ipynb
-   * Split into one shuffled test_dataset at 20% and one shuffled train_dataset at 80%
-   * Copied each dataset
-   * Removed dependant variable from each train and test set
-   * Keras normilization layer adaptation of train set for full set normalizer implimentation
-   * Keras normilization layer adaptation of train set feature 'Number of Cannabis Users' for cannabis_use_normalizer implimentation
-\\\ XGBoost modeling
-   * Dependant variable y is defined as the data feature 'Number of Opioid deaths' 
-   * Independant variable(s) X is defined as all features that don't include 'Number of Opioid deaths' 
-   * Train test split is instantiated with a test size of 29.3% and a train size of 70.7% and left unshuffled for a clear output of years 2019 and 2020
+   * Neural Networking
+      * Split into one shuffled test_dataset at 20% and one shuffled train_dataset at 80%
+      * Copied each dataset
+      * Removed dependant variable from each train and test set
+      * Keras normilization layer adaptation of train set for full set normalizer implimentation
+      * Keras normilization layer adaptation of train set feature 'Number of Cannabis Users' for cannabis_use_normalizer implimentation
+   * XGBoost modeling
+      * Dependant variable y is defined as the data feature 'Number of Opioid deaths' 
+      * Independant variable(s) X is defined as all features that don't include 'Number of Opioid deaths' 
+      * Train test split is instantiated with a test size of 29.3% and a train size of 70.7% and left unshuffled for a clear output of years 2019 and 2020
 * XGBoost_revised_percap_set.ipynb   
    * Dependant variable y is defined as the data feature 'Number of Opioid deaths' 
    * Independant variable(s) X is defined as all features that don't include 'Number of Opioid deaths' 
@@ -95,12 +96,19 @@ Model choices, including limitations and benefits:
          * Allow models to become more efficient at learning complex features and performing more intensive computational tasks
          * Requires very large amount of data in order to perform better than other techniques
          * Expensive to train due to complex data models
+   * XGBoost decision-tree-based ensemble
+      * model with 500 n_estimators, max_depth of 50, eta of 0.01, and a tree_method of histogram   
+         * Ideal for medium-small datasets
+         * Does not need normalized features
+         * Works well if the data is nonlinear, non-monotonic, or with segregated clusters
+         * Can overfit with decision trees that go too deep with excess noise in the data
 * XGBoost_revised_percap_set.ipynb
    * XGBoost decision-tree-based ensemble
-      * Ideal for medium-small datasets
-      * Does not need normalized features
-      * Works well if the data is nonlinear, non-monotonic, or with segregated clusters
-      * Can overfit with decision trees that go too deep with excess noise in the data
+      * model with 500 n_estimators, max_depth of 50, eta of 0.01, and a tree_method of histogram   
+         * Ideal for medium-small datasets
+         * Does not need normalized features
+         * Works well if the data is nonlinear, non-monotonic, or with segregated clusters
+         * Can overfit with decision trees that go too deep with excess noise in the data
 * SVM_Lasso_merged_set.ipynb 
    * SVM
       * Effective for smaller datasets
