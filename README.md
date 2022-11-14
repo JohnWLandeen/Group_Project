@@ -15,7 +15,7 @@ preliminary data preprocessing ML input files:
       * Created with multiple Drug Overdose data tables from the CDC
       * Created with multiple Cannabis use data tables from the SAMHSA
 * XGBoost_revised_percap_set.ipynb
-   * revised_percap_data_with_predictions.csv
+   * revised_percap_data.csv
       * Created with multiple Drug Overdose data tables from the CDC
       * Created with multiple Cannabis use data tables from the SAMHSA
       * Created with Opioid data from KFF
