@@ -41,8 +41,8 @@ function updateFilters() {
 
     // 4b. Save the value that was changed as a variable.
     let elementValue = changedElement.property("value");
-    console.log(elementValue);
-
+    console.log(typeof(elementValue));
+  
     // 4c. Save the id of the filter that was changed as a variable.
     let filterId = changedElement.attr("id");
     console.log(filterId);
@@ -50,11 +50,16 @@ function updateFilters() {
     // 5. If a filter value was entered then add that filterId and value
     // to the filters list. Otherwise, clear that filter from the filters object.
     if (elementValue) {
+      if (filterId == "Year") {
+        elementValue = Number(elementValue);
+      }
       filters[filterId] = elementValue;
     }
     else
       delete filters[filterId];
-    
+    console.log(filters);
+
+
     // 6. Call function to apply all filters and rebuild the table
     filterTable();
   

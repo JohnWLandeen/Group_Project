@@ -1,9 +1,26 @@
 body {
 
-    color: #ff0000;
-  }
-  .jumbotron {
-    background-image: url("../images/weed.jpg");
-    background-size: 100% 100%;
-    text-align: center;
-  }
+  color: #40c251;
+}
+
+.jumbotron {
+  background-image: url("../images/weed.png");
+  background-size: 100% 100%;
+  text-align: center;
+  color: white;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+
+p {
+  background-image: url('static/images/weed.jpg');
+
+}
+
+.green {
+  background-color: #73d981;
+
+}
+
+.darkergreen {
+  background-color: #3da14a;
+}
