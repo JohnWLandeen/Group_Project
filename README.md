@@ -5,7 +5,7 @@ John:
 - XGBoost modeling of revised percap set
 - Lasso vs SVM modeling and predictions
 - Polyfit_linear_regression_variety modeling and predictions
-- Preliminary Forecasting 
+- Preliminary Forecasting[Redacted]: Datetime data insufficient 
 
 
 preliminary data preprocessing ML input files:
