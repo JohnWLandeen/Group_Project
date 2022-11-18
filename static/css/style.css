@@ -9,6 +9,7 @@ body {
   text-align: center;
   color: white;
   text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+  font-family: "Times New Roman", Times, serif;
 }
 
 p {
@@ -17,8 +18,13 @@ p {
 }
 
 .green {
-  background-color: #73d981;
+  background-color: #5cb35b;
 
+}
+
+.leaves {
+  background-image: url("../images/weed.jpg");
+  background-color: #3da14a;
 }
 
 .darkergreen {
