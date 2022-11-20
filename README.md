@@ -65,3 +65,5 @@ https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Per_Capita_Bar_G
 https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Dashboard#1
 <img width="955" alt="image" src="https://user-images.githubusercontent.com/106359572/200138809-3d200303-774a-480e-8ad9-cc6035a14565.png">
 
+### No. of Years Legal vs. Per Capita Cannabis Usage & Overdose Deaths
+https://public.tableau.com/app/profile/albert.zeng7834/viz/Cannabis_16679286599760/Sheet1?publish=yes
