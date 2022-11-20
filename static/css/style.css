@@ -7,7 +7,8 @@ body {
   background-image: url("../images/weed.png");
   background-size: 100% 100%;
   text-align: center;
-  color: white;
+  color: rgb(255, 234, 0);
+  font-size: large;
   text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
   font-family: "Times New Roman", Times, serif;
 }
@@ -25,6 +26,9 @@ p {
 .leaves {
   background-image: url("../images/weed.jpg");
   background-color: #3da14a;
+  font-size: larger;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
 }
 
 .darkergreen {
