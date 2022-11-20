@@ -13,10 +13,6 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 
-p {
-  background-image: url('static/images/weed.jpg');
-
-}
 
 .green {
   background-color: #5cb35b;
@@ -31,6 +27,3 @@ p {
   text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
 }
 
-.darkergreen {
-  background-color: #3da14a;
-}
