@@ -1,8 +1,8 @@
 # UC Berkeley Extension Data Analytics Bootcamp Capstone Project, Group 13: "A Correlational Analysis of Cannabis Consumption and Opioid Misuse in the United States"
 <img width="113" alt="image" src="https://user-images.githubusercontent.com/106359572/200140635-383d3628-432c-4e9c-9036-eb79a8218441.png"> 
 
-## Introduction
-As of this writing, cannabis remains federally illegal as a "Schedule 1" controlled substance, a categorization reserved for drugs that have no medical benefit and a high potential for abuse (along with, for instance, heroin and lysergic acid diethylamide (LSD)).
+## Site Design
+The purpose of this segment of the project was serve as a storyboard for our whole project. In addition to stating the reasons behind the project, our goal was to display all of the results we had collected through the course of this investigation on a single webpage so that users can filter the data by state, year, and legal status and see the results for themselves.
 
 Proponents of decriminalizing and descheduling cannabis argue that it has been extenstively researched and scientifically validated as a plant that offers myriad physical health benefits, and with far less potential for lethal overconsumption than alcohol, for example, or even over-the-counter medications like acetaminophen (and they point to the 30,000+ cannabis-related studies published on the National Center for Biotechnology's PubMed.gov site in response to claims that it has not yet been researched or studied well enough to justify recreational legalization on a national level).
 
