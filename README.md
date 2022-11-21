@@ -12,7 +12,7 @@ Our Team Logo was created on Adobe Illustrator. It represents our teams analytic
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectCannabiscapitaperstate/Story1?publish=yes
 
 When measuring the Per Capita Cannabis Use by state, we color-coded our map to show red (higher cannabis usage per capita) and green (lower cannabis usage per capita) by state. We can now see the following results:
-
+Findings:
 - Top 5 cannabis-consuming states per capita: Vermont, Colorado, Maine, Oregon, and Alaska.
 - Bottom 5 cannabis-consuming states per capita: Utah, Mississippi, South Dakota, Iowa, and Texas.
 
