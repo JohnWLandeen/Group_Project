@@ -45,3 +45,15 @@ We will document our processes, challenges and conclusions in full detail in the
 ![image](https://user-images.githubusercontent.com/106359572/201496682-4358309f-f2bc-48cb-a993-72a557996e81.png)![image](https://user-images.githubusercontent.com/106359572/201494736-d01c74b0-e496-4343-a97d-9e89f14747b8.png)
 ![image](https://user-images.githubusercontent.com/106359572/201495172-542236d8-17cb-47f5-adef-d1b10d2a0953.png)
 
+## Summary
+
+### Our objective with this project was to create an interactive dashboard that could provide users with state-specific visualizations based on datasets from reliable sources, (NIH, CDC, etc.) to see whether there are answers within the data to the questions about cannabis usage and how it relates to opioid deaths
+
+What we discovered in our analysis of the data was that Opioid death percentages have continued to rise in most states, independently of their cannabis policies.
+The only states with a consistent overall decrease were Oklahoma, Utah and New Hampshire (all medically legal states).
+As of 2020, the remaining states had increases since 2014 ranging from 37% (in Wyoming, where cannabis is illegal) to 554% (in the District of Columbia, where cannabis is fully legal).
+- The coronavirus pandemic seemed to have played a significant role in the increase in both cannabis use and opioid deaths in 2020 which saw the reversal of almost all progress that some states had made towards reduced opioid fatalities between 2016 and 2018.
+- In 2020 we saw Cannabis consumption rising sharply indicating strong positive correlation with rise in opioid deaths
+
+Limitations:
+This analysis was limited by factors such as the willingness of cannabis users to accurately self-report their use and the accuracy in reporting opioid deaths where there might have been comorbidities that also contributed. Also, the length of available data – it would be worth studying again once data from 2021 & 2022 are available.
