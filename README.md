@@ -39,7 +39,7 @@ Findings:
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/CorrelationpercapitaCannabisConsumptionvspercapitaOpiodOverdoses/Story3?publish=yes
 
 When measuring the Correlation between Opioid Overdoses per capita vs Opioid Overdoses per capita by state, we color-coded our map to show red (lower correlation) and green (higher correlation) by state. We can now see the following results:
-
+Findings:
 - States with Strongest Correlation: Louisiana, Connecticut,  Florida, Missouri, and Illinois.
 - States with Weakest Correlation: Utah, Oklahoma, Wyoming, Georgia, and Alaska.
 
