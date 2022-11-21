@@ -25,7 +25,7 @@ When measuring the Per Capita Cannabis Use by state, we color-coded our map to s
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectOpiodOverdoses/Story2?publish=yes
 
 When measuring the Per capita Opioid Overdoses by state, we color-coded our map to show red (higher opioid overdoses per capita) and green (lower opioid overdoses per capita) by state. We can now see the following results:
-
+Findings:
 - Top 5 opioid-overdosing states: West Virginia, New Hampshire, Kentucky, Ohio, and New Mexico.
 - Bottom 5 opioid-overdosing states: Kansas, California, North Dakota, Nebraska, and South Dakota.
 
