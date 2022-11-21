@@ -6,7 +6,7 @@
 Our Team Logo was created on Adobe Illustrator. It represents our teams analytical research in the opioid overdose and cannabis consumption rates by state.
 
 
-## Tableau Visualizations (3) - Jorge:
+## Tableau Visualizations Draft(3) - Jorge:
 ### Cannabis Consumption per Capita for each State
 ![Cannabis Consumption per Capita for each State](https://user-images.githubusercontent.com/104862099/199650099-82e2c8c5-6f9f-4fa2-b793-345ee05e8439.jpg)
 Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectCannabiscapitaperstate/Story1?publish=yes
