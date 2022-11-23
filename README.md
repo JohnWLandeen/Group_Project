@@ -10,7 +10,9 @@ John:
 
 - Initial building and modification for Marijuana state legality dataset
 
-- Mega_merged dataset with predictions from the championing ML model XGBoost for states of the years 2019 and 2020
+- Predictions calculated by XGBoost for datasets denoted with predictions
+
+- All machine learning model notebooks and outlines
 
 Jan:
 Data sourcing for:
