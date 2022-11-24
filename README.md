@@ -1,7 +1,15 @@
 # UC Berkeley Extension Data Analytics Bootcamp Capstone Project, Group 13: "Analyses and Predictions: The Impact of Cannabis Legalization on the U.S. Opioid Crisis"
 
-Team Logo: <img width="113" alt="image" src="https://user-images.githubusercontent.com/106359572/200140635-383d3628-432c-4e9c-9036-eb79a8218441.png"> 
-Public Site: https://github.com/pladams777/Group_Project/deployments/activity_log?environment=github-pages
+
+<img width="113" alt="image" src="https://user-images.githubusercontent.com/106359572/200140635-383d3628-432c-4e9c-9036-eb79a8218441.png"> 
+<b>(Team Logo)</b> 
+
+
+
+<b>Finalized Site:</b> https://github.com/pladams777/Group_Project/deployments/activity_log?environment=github-pages
+
+
+<b>Link to Presentation:</b> https://docs.google.com/presentation/d/18jxE-i2TfmQhpv64p8P7D3sQgM1D2Rxsgw4-KZ4hEFA/edit#slide=id.g159b14ad12e_3_784
 
 ## Introduction
 As of this writing, cannabis remains federally illegal as a "Schedule 1" controlled substance, a categorization reserved for drugs that have no medical benefit and a high potential for abuse (along with, for instance, heroin and lysergic acid diethylamide (LSD)).
@@ -20,79 +28,97 @@ Our objective is an interactive dashboard that provides users with state-specifi
 
 2. In states that have legalized medical and/or recreational marijuana, has there been a greater / sharper decline in reported opioid misuse/deaths in the year(s) following legalization, compared to states that have not yet lifted restrictions?
 
-## Data Sources
+
+## Project Outline
+
+This repository includes the following branches:
+
+<b>Datasets</b> (contributions from Albert Zeng, John Landeen, Janasia Roemling)
+
+<b>Dashboard and Visualizations</b> (Contributions from Paula Adams, Janasia Roemling, Jorge Jurado)
+
+<b>Machine Learning</b> (contributions from John Landeen)
+
+<b>Site</b> (contributions from Albert Zeng and John Landeen)
+
+![image](https://user-images.githubusercontent.com/106359572/201496682-4358309f-f2bc-48cb-a993-72a557996e81.png)![image](https://user-images.githubusercontent.com/106359572/201494736-d01c74b0-e496-4343-a97d-9e89f14747b8.png)
+![image](https://user-images.githubusercontent.com/106359572/201495172-542236d8-17cb-47f5-adef-d1b10d2a0953.png)
+
+### Communication Protocols
+Our team meets 4 times a week: 
+  - twice a week in class via Zoom
+  - twice a week outside of class via GoogleMeets
+
+Outside of meetings, we communicate via Slack chat threads to keep one another up-to-date on our progress and new ideas.
+
+We've agreed to keep the division of responsibility less formal and siloed than what is suggested in the Canvas Module 20 instructions.  Team members have not been assigned "shapes" that designate their roles; we've instead agreed to each contribute wherever our strengths allow us to, while requesting input and help from others as needed.  Each section of our project can therefore have more than one contributor, and each team member has contributed to more than one branch in this repository.
+  
+We will document our processes, challenges and conclusions in full detail in the following READMEs:
+- Data Collection, Cleaning and Analysis: John Landeen, Albert Zeng, Janasia Roemling
+- Dataframes Construction and ERD: Albert Zeng, Jorge Jurado, Paula Adams
+- Machine Learning Models: John Landeen
+- Dashboard and Visualizations: Jorge Jurado, Janasia Roemling, Paula Adams
+
+## Data Collection and Sourcing
+
 Our data sets will include the following:
 - annual state population estimates (https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates/2010s-state-total.html)
 - An annual survey of self-reported cannabis consumption, once or more within the past year for ages 12 and up (https://www.samhsa.gov/data/nsduh/state-reports-NSDUH-2)
 - Opioid prescribing rates per 100 people, ages 12 and older (https://www.cdc.gov/drugoverdose/rxrate-maps/index.html)
 - Opioid overdose rates, ages 12 and older (https://www.kff.org/statedata/collection/opioid-epidemic/)
 
-## Project Outline
+### Contributions
+John:
 
-This repository includes the following branches:
-Datasets (contributions from Albert Zeng, John Landeen, Janasia Roemling)
-Dashboard and Visualizations (Contributions from Paula Adams, Janasia Roemling, Jorge Jurado)
-Machine Learning (contributions from John Landeen)
-Site (contributions from Albert Zeng and John Landeen)
+Created AWS database and group project bucket for datasets
 
-![image](https://user-images.githubusercontent.com/106359572/201496682-4358309f-f2bc-48cb-a993-72a557996e81.png)![image](https://user-images.githubusercontent.com/106359572/201494736-d01c74b0-e496-4343-a97d-9e89f14747b8.png)
-![image](https://user-images.githubusercontent.com/106359572/201495172-542236d8-17cb-47f5-adef-d1b10d2a0953.png)
+Initial building and modification for National Marijuana user survey dataset
 
-## Data Exploration, Cleansing and Analysis
-# Datasets README
+Initial building and modification for Opioid Overdose dataset
 
-John: 
+Initial building and modification for Marijuana state legality dataset
 
-- Created AWS database and group project bucket for datasets
+Predictions calculated by XGBoost for datasets denoted with predictions
 
-- Initial building and modification for National Marijuana user survey dataset
+All machine learning model notebooks and outlines
 
-- Initial building and modification for Opioid Overdose dataset
+Jan: Data sourcing for:
 
-- Initial building and modification for Marijuana state legality dataset
-
-- Predictions calculated by XGBoost for datasets denoted with predictions
-
-- All machine learning model notebooks and outlines
-
-Jan:
-Data sourcing for:
-- state population estimates
-- opioid prescribing rates by state
-- opioid overdose death rates by state
-- drug overdose death rates by state
-- cannabis consumption
-
+state population estimates
+opioid prescribing rates by state
+opioid overdose death rates by state
+drug overdose death rates by state
+cannabis consumption
 Albert:
 
-- Cleaned and reorganized cannabis user data
+Cleaned and reorganized cannabis user data
 
-- Added Total US data to opioid deaths data
+Added Total US data to opioid deaths data
 
-- Cleaned and reorganized opioid deaths data
+Cleaned and reorganized opioid deaths data
 
-- Merged cannabis and opioid data
+Merged cannabis and opioid data
 
-- Cleaned and merged US population data with cannabis and opioid data
+Cleaned and merged US population data with cannabis and opioid data
 
-- Created per capita figures for cannabis use and opioid deaths
+Created per capita figures for cannabis use and opioid deaths
 
 Paula
-- Data source for state legality
-- ERD image
+
+Data source for state legality
+ERD image
 
 
-# Data Exploration
-## Opioid Statistics
+### Opioid Statistics
 
-### 1. U.S. State Opioid Dispensing Rate Maps
+#### 1. U.S. State Opioid Dispensing Rate Maps
 The first sets of data we chose to consider for our analysis of US opioid statics are from the Centers for Disease Control and Prevention’s “U.S. State Opioid Dispensing Rate Maps,” for which the data is available from 2006 through 2020 on the CDC website (https://www.cdc.gov/drugoverdose/rxrate-maps/index.html).
 As shown in the below example of their 2006 table, these data show the number of opioid prescriptions dispensed per 100 residents, per year, by state.
   
 ![image](https://user-images.githubusercontent.com/106359572/200137338-00eb0042-1762-4631-b2e1-a09aece44605.png)
 
 The source listed by the CDC for these data is “IQVIA Xponent 2006–2020,” which is based on a sample of approximately 50,400 retail pharmacies, which dispense nearly 92% of all retail prescriptions in the United States. For this database, a prescription is a new or refill prescription dispensed at a retail pharmacy in the sample and paid for by commercial insurance, Medicaid, Medicare, cash or its equivalent, and other third-party coverage. This database does not include mail order prescriptions.
-### 2. Drug Overdose Rates (ages 12 and older)
+#### 2. Drug Overdose Rates (ages 12 and older)
 In addition to opioid prescribing rates, we’ve included the national numbers for drug fatalities (again, by state, per year), which we downloaded as CSV files from the CDC website for the years 2014 through 2020 (https://www.cdc.gov/drugoverdose/deaths/index.html).
 
 ![image](https://user-images.githubusercontent.com/106359572/200137374-3d36cea1-56d2-450c-bf93-d5f4ebf82d2e.png)
@@ -114,7 +140,7 @@ However, we found this breakdown somewhat too specific for the purpose of our pr
 ![image](https://user-images.githubusercontent.com/106359572/200137428-1764625e-5826-431f-ab98-638b0fd4dd9d.png)
 (https://www.cdc.gov/drugoverdose/deaths/synthetic/2019-2020.html)
 
-### 3. Opioid Overdose Deaths by Age Group
+#### 3. Opioid Overdose Deaths by Age Group
 To address our above issue, we continued in search of more user-friendly and efficiently compiled data, which we found through Kaiser Family Foundation (https://www.kff.org/statedata/collection/opioid-epidemic/), a nonprofit organization focusing on national health issues.
 
 ![image](https://user-images.githubusercontent.com/106359572/200137448-040b4c44-b272-4893-a212-cb64cae5fcb8.png)
@@ -123,8 +149,8 @@ To address our above issue, we continued in search of more user-friendly and eff
 The data, sourced from the National Vital Statistics System multiple cause-of-death mortality files, show the number of opioid overdose deaths by age group, by state, dating all the way back to 1999. 
 This is important because by replacing the CDC Drug Overdose datasets (in point 2. above) with the KFF Opioid Overdose data, our group could expand our analysis by up to 15 years, which would easily resolve the issue we’ve encountered with a lack of data.  (The minimum requirement of this project is 1,000 rows of data and as of November 5, our group’s merged data table only totals approximately 350 rows.)
 
-## Cannabis Statistics
-### Cannabis Consumption by State
+### Cannabis Statistics
+#### 1. Cannabis Consumption by State
 The National Survey on Drug Use and Health (NSDUH) (formerly the National Household Survey on Drug Abuse) tracks trends within the US in specific substance use, including cannabis, alcohol, tobacco, and various illicit and prescription drugs.
 
 For our analysis, our team chose the NSDUH datasets with state-level small area estimates (SAEs) showing self-reported cannabis consumption, once or more within the past year (for respondents ages 12 and older), from 2014 to 2020.  These were available to download in CSV format from the U.S. Department of Health & Human Services’ Substance Abuse and Mental Health Services Administration (SAMHSA) website.
@@ -133,22 +159,22 @@ https://www.samhsa.gov/data/nsduh/state-reports-NSDUH-2020
 
 ![image](https://user-images.githubusercontent.com/106359572/201492136-d8c37ad6-ade3-4a35-8c88-369d21e2653f.png)
 
-### Cannabis Legality Status by State
+#### 2. Cannabis Legality Status by State
 The sources used to compile our dataset for cannabis legality status for each state included the following:
 1.	National Conference of State Legislatures (https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx)
 2.	Word Population Review (https://worldpopulationreview.com/state-rankings/marijuana-laws-by-state)
 
 ![image](https://user-images.githubusercontent.com/106359572/201492149-3a5b431a-70da-4085-8a49-e47064facd97.png)
 
-## Population Data
+### Population Data
 Lastly, we incorporated state population estimates, provided by the United States Census Bureau, in order to have a baseline for comparison to put the cannabis consumption and opioid statistics into perspective as per capita percentages.
 
 ![image](https://user-images.githubusercontent.com/106359572/201492160-72a40286-f110-441d-ad29-86d48bd0f677.png)
 https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates/2010s-state-total.html
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 
-## Data Cleansing
+### Data Cleansing
 
 Once we had downloaded all of the necessary data relating to our project, the next step was to clean and process it so that it could be arranged in a way that would be easy to visualize. This process involved uploading the downloaded .csv files to Jupyter Notebook and then manipulating the data within each file. First, the file would be cleaned for any null values and unnecessary columns would be dropped. For example, data for each region of the United States was not necessary and was thus dropped from the dataset.
 ![](Dataset_Cleaning_Dir/images/remove.png)
@@ -175,67 +201,70 @@ Our group found that there was a problem with the number of opioid deaths, which
 
 ![](Dataset_Cleaning_Dir/images/updated.png)
 
-## Team Logo and Tableau Visualizations
-### Team Logo - Jorge:
+### ERD 
+![image](https://user-images.githubusercontent.com/106359572/203664004-8d18aa3b-c34d-4764-b65f-77a7ca38edc8.png)
+
+
+## Dashboard and Visualizations
+### Team Logo:
 
 ![GroupLogo21024_1](https://user-images.githubusercontent.com/104862099/199653694-93e49ae0-0be2-4c36-bce0-5f207bf70f91.jpg)
 
 Our Team Logo was created on Adobe Illustrator. It represents our teams analytical research in the opioid overdose and cannabis consumption rates by state.
 
-### Cannabis Consumption per Capita for each State
-![Cannabis Consumption per Capita for each State](https://user-images.githubusercontent.com/104862099/199650099-82e2c8c5-6f9f-4fa2-b793-345ee05e8439.jpg)
-Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectCannabiscapitaperstate/Story1?publish=yes
+### Final Dashboard Layout
+<b>Link to Dashboard:</b> https://public.tableau.com/app/profile/janasia.roemling/viz/Data_Analytics_Group_13_Cannabis_Opioid_Correlations_Final/Dashboard#1
 
-When measuring the Per Capita Cannabis Use by state, we color-coded our map to show red (higher cannabis usage per capita) and green (lower cannabis usage per capita) by state. We can now see the following results:
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/106359572/203663228-cc3cb93a-eba3-4267-b04b-16b68c2e0039.png">
+
+### Legality Status Map
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/106359572/203664810-3b6f45b1-ea6b-42a3-bb31-1268fb671611.png">
+
+
+### Cannabis Consumption per Capita for each State
+When measuring the Per Capita Cannabis Use by state, we color-coded our map to show the darker green states having the highest average annual per capita percentage of cannabis consumers.
 Findings:
 - Top 5 cannabis-consuming states per capita: Vermont, Colorado, Maine, Oregon, and Alaska.
 - Bottom 5 cannabis-consuming states per capita: Utah, Mississippi, South Dakota, Iowa, and Texas.
 
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/106359572/203664657-b510af98-6b77-4315-8e6a-b9b0935f5c83.png">
 
-### Opioid Overdoses Per Capita For Each State
 
-![Opioid Overdoses Per Capita For Each State](https://user-images.githubusercontent.com/104862099/199654429-602c45c8-35bd-4eeb-b036-5d659e6d73db.jpg)
-Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/GroupProjectOpiodOverdoses/Story2?publish=yes
-
-When measuring the Per capita Opioid Overdoses by state, we color-coded our map to show red (higher opioid overdoses per capita) and green (lower opioid overdoses per capita) by state. We can now see the following results:
+### Per Capita Opioid Overdoses by State
+When measuring the Per Capita Cannabis Use by state, we color-coded our map to show the darker red states having the highest average annual percentage of opioid overdose deaths.
 Findings:
 - Top 5 opioid-overdosing states: West Virginia, New Hampshire, Kentucky, Ohio, and New Mexico.
 - Bottom 5 opioid-overdosing states: Kansas, California, North Dakota, Nebraska, and South Dakota.
 
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/106359572/203664391-2eda02f4-0046-4b2f-a1b9-edd9916423f4.png">
+
 ### Correlation Cannabis Consumption per Capita vs Opioid Overdoses per Capita
-
-![Correlation Cannabis Consumption per Capita vs Opioid Overdoses per Capita](https://user-images.githubusercontent.com/104862099/199654452-24a4db45-9f57-4068-aba5-485446710186.jpg)
-Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/CorrelationpercapitaCannabisConsumptionvspercapitaOpiodOverdoses/Story3?publish=yes
-
 When measuring the Correlation between Opioid Overdoses per capita vs Opioid Overdoses per capita by state, we color-coded our map to show red (lower correlation) and green (higher correlation) by state. We can now see the following results:
 Findings:
 - States with Strongest Correlation: Louisiana, Connecticut,  Florida, Missouri, and Illinois.
 - States with Weakest Correlation: Utah, Oklahoma, Wyoming, Georgia, and Alaska.
 
-## Tableau Visualizations - Janasia:
-### Per Capita Drug Deaths by State
-https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Opioid_Deaths_Map#1
-<img width="952" alt="image" src="https://user-images.githubusercontent.com/106359572/200138532-5ea43c9c-fcee-48e8-8479-b515654c6597.png">
 
-### Per Capita Cannabis Consumption by State
-https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Cannabis_Use_Map#1
-<img width="953" alt="image" src="https://user-images.githubusercontent.com/106359572/200138586-32801412-1394-43fc-a304-e42606b04dc3.png">
+![Correlation Cannabis Consumption per Capita vs Opioid Overdoses per Capita](https://user-images.githubusercontent.com/104862099/199654452-24a4db45-9f57-4068-aba5-485446710186.jpg)
+Link to Tableau: https://public.tableau.com/app/profile/jorge.jurado/viz/CorrelationpercapitaCannabisConsumptionvspercapitaOpiodOverdoses/Story3?publish=yes
+
 
 ### Correlational Line Charts (filterable by State)
-https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Per_Capita_Line_Charts#1
-<img width="953" alt="image" src="https://user-images.githubusercontent.com/106359572/200138630-9da2bd44-d989-4eec-b8ff-fabe88300bd3.png">
+<img width="755" alt="image" src="https://user-images.githubusercontent.com/106359572/203665369-8281d415-d314-4e6a-9df4-2db4ffb747c4.png">
 
 ### Correlational Bar Graphs (filterable by State)
-https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Per_Capita_Bar_Graphs#1
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/106359572/200138666-8b70ceea-355d-46ed-9ffe-36ed990f6e7c.png">
-<img width="955" alt="image" src="https://user-images.githubusercontent.com/106359572/200138755-81e4a061-abe3-4e1d-bd16-79efc08bb7c3.png">
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/106359572/203665415-dabddc65-8596-4090-ae65-1b70b4625149.png">
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/106359572/203665456-fe07fe5c-553b-4044-a53b-52dc3c3ca97b.png">
 
-### Preliminary Dashboard Layout
-https://public.tableau.com/authoring/Data_Group_13_Project_REV2/Dashboard#1
-<img width="955" alt="image" src="https://user-images.githubusercontent.com/106359572/200138809-3d200303-774a-480e-8ad9-cc6035a14565.png">
 
 ### No. of Years Legal vs. Per Capita Cannabis Usage & Overdose Deaths
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/106359572/203664999-70e56cac-e301-437e-b7a3-e7738f7bac3f.png">
+
 https://public.tableau.com/app/profile/albert.zeng7834/viz/Cannabis_16679286599760/Sheet1?publish=yes
+
+### Percentage Change in Annual Opioid Deaths Since 2014
+<img width="760" alt="image" src="https://user-images.githubusercontent.com/106359572/203665584-45705254-f01d-418a-80e5-7b7ac247fc65.png">
+
 
 ## Site Design
 
@@ -252,21 +281,6 @@ Since our main objective is an interactive webpage that provides users with stat
 The creation of this comprehensive webpage involved the use of JavaScript and HTML. The index file contained the HTML code, which used elements from bootstrap for the title. The static folder included two JavaScript files: data.js and app.js. For the data file, we converted the percaps_w_legality csv file into a .json file so that it could be easily read by the index. The Tableau dashboard was added to the index file and successfully displayed at the center of the page above the data table. A separate style.css file was used with the site design to create the aesthetics of the site. Perhaps the most challenging part of the site was creating a working filter search function that would allow the use to filter the table by state, year, and legal status. While the state and legal status worked without issue, the year did not since it was an integer rather than a string. To solve this issue, we needed to revisit the app.js and specify that the input in that particular box would be an integer. 
 
 ![](static/images/site.png)
-
-## Communication Protocols
-Our team meets 4 times a week: 
-  - twice a week in class via Zoom
-  - twice a week outside of class via GoogleMeets
-
-Outside of meetings, we communicate via Slack chat threads to keep one another up-to-date on our progress and new ideas.
-
-We've agreed to keep the division of responsibility less formal and siloed than what is suggested in the Canvas Module 20 instructions.  Team members have not been assigned "shapes" that designate their roles; we've instead agreed to each contribute wherever our strengths allow us to, while requesting input and help from others as needed.  Each section of our project can therefore have more than one contributor, and each team member has contributed to more than one branch in this repository.
-  
-We will document our processes, challenges and conclusions in full detail in the following READMEs:
-- Data Collection, Cleaning and Analysis: John Landeen, Albert Zeng, Janasia Roemling
-- Dataframes Construction and ERD: Albert Zeng, Jorge Jurado, Paula Adams
-- Machine Learning Models: John Landeen
-- Dashboard and Visualizations: Jorge Jurado, Janasia Roemling, Paula Adams
 
 ## Machine_Learning
 - Neural networking models and predictions ending with XGBoost modeling of original merged set
@@ -420,19 +434,16 @@ We will document our processes, challenges and conclusions in full detail in the
 * XGBoost_revised_percap_set.ipynb
    * revised_percap_data_with_predictions.csv
 
-
-
 ### Results:
 
 In the modeling world, Neural Networks outperform most other models with unstructured data. But with structured or tabular data especially medium or small, the XGBoost decision tree based ensemble model is well known to take the cake. The best model performance for this project's small datasets goes to XGBoost for delivering the most ideal results for prediction differences, MAE scores, and RMSE scores. XGBoost metrics conclude after 500 epochs of training resulting in a Mean Absolute Error of about 17 and a Root Mean Square Error of about 40.
 
-![alt text](Resources/XGBoost_fit_with_eval.png) 
-
-![alt text](Resources/XGBoost_score_improvement.png) 
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/106359572/203665846-f7e4fe2b-b66a-4e3a-84fb-b350f9ec7603.png">
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/106359572/203665871-6d38d9cf-41f2-4cae-b312-fa0b6ee5fbca.png">
 
 The Predictions (red) against actual (blue) show the best performer for small datasets, XGBoost, deliver the most accurate outcomes.
 
-![alt text](Resources/predictions_against_actual_plot.png) 
+<img width="251" alt="image" src="https://user-images.githubusercontent.com/106359572/203665902-f987d880-e928-4085-b0d5-808c33844c55.png">
     
 
 ## Conclusion and Findings
