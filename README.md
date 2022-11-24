@@ -68,7 +68,7 @@ Our data sets will include the following:
 - Opioid overdose rates, ages 12 and older (https://www.kff.org/statedata/collection/opioid-epidemic/)
 
 ### Contributions
-John:
+**John:**
 
 Created AWS database and group project bucket for datasets
 
@@ -82,14 +82,25 @@ Predictions calculated by XGBoost for datasets denoted with predictions
 
 All machine learning model notebooks and outlines
 
-Jan: Data sourcing for:
+**Jan:** 
 
-state population estimates
-opioid prescribing rates by state
-opioid overdose death rates by state
-drug overdose death rates by state
-cannabis consumption
-Albert:
+Vizualizations and Research
+
+Data sourcing for:
+
+- state population estimates
+
+- opioid prescribing rates by state
+
+- opioid overdose death rates by state
+
+- drug overdose death rates by state
+
+- cannabis consumption
+
+Readme copywriting/editing
+
+**Albert:**
 
 Cleaned and reorganized cannabis user data
 
@@ -103,10 +114,21 @@ Cleaned and merged US population data with cannabis and opioid data
 
 Created per capita figures for cannabis use and opioid deaths
 
-Paula
+**Paula:**
 
 Data source for state legality
+
+Assisted with Vizualizations
+
 ERD image
+
+Proofreading/editing
+
+**Jorge:**
+
+Tableau Visualizations
+
+Logo creation
 
 
 ### Opioid Statistics
